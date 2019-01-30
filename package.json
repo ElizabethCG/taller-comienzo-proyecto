@@ -1,0 +1,14 @@
+{
+  "name": "inicio-projecto",
+  "version": "1.0.0",
+  "description": "Taller de como comenzar projectos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "squad 5",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
